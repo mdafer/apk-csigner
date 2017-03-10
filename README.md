@@ -27,9 +27,6 @@ I heartily thank android-dls.com for their help! Because of them I figured out t
 
 If you face file not found error, you may need to install Java JRE (in addition to JDK).
 
-Download: (v0.8.2)
-
-apk_CSigner_x64                   apk_CSigner_x86 
 
 Note: after unzipping the file, do not rename the folder (eg. apk_CSigner_x64).
 
