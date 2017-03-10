@@ -21,7 +21,7 @@ Note: This program is designed for situations where apk multitool fail to compil
 
 Requirements:
 
-You must have Java (jdk) installed and you must add its path to Environment variable see this video for more help.
+You must have [Java (jdk)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed and you must add its path to Environment variable see [this video](http://www.youtube.com/watch?v=oowsJcJLmss) for more help.
 
 I heartily thank android-dls.com for their help! Because of them I figured out that some files were missing from OpenSSL (which generates the certificate).
 
