@@ -1,0 +1,7 @@
+Exclusively for www.coolestech.com
+by Mostafa Dafer
+
+1- Place your *.apk in "place-apk-here" folder
+2- Run "Csigner.bat"
+
+Enjoy :)

@@ -1,0 +1,4 @@
+decompile
+apktool d music.apk music 
+recompile
+apktool b music music-new.apk
